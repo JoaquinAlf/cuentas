@@ -1,4 +1,4 @@
-package deposito;
+package cuentas;
 public class Main {
 
     public static void main(String[] args) {
