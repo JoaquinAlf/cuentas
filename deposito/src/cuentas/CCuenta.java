@@ -39,4 +39,12 @@ public class CCuenta {
             throw new Exception ("No se hay suficiente saldo");
         saldo = saldo - cantidad;
     }
+
+	public double getTipoInterés() {
+		return tipoInterés;
+	}
+
+	public void setTipoInterés(double tipoInterés) {
+		this.tipoInterés = tipoInterés;
+	}
 }
