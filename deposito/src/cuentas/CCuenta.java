@@ -1,3 +1,8 @@
+/** primer comentario javadoc
+ * @author Joaquin Alfaro
+ * @version 1.01
+ */
+
 package cuentas;
 
 public class CCuenta {
